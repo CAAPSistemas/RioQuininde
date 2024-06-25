@@ -1,0 +1,29 @@
+.css-pdct74-MuiTablePagination-selectLabel{
+    margin-top: auto!important;
+}
+
+ .css-levciy-MuiTablePagination-displayedRows{
+    margin-top: auto;
+ }
+
+ .mui-datatable {
+    width:  100%;
+    max-width: 800px; /* ajusta el valor de max-ancho según tus necesidades */
+    margin: 0 auto;
+  }
+
+  .mui-datatable th, .mui-datatable td {
+    padding: 10px;
+  }
+
+  .custom-scrollbar {
+    overflow-y: hidden;
+  }
+
+  .homeNotas {
+    background-image: url("../../../public/images/header.png");
+    background-size: contain;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }

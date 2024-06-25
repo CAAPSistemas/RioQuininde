@@ -1,0 +1,18 @@
+a {
+  text-decoration: none !important;
+  color: #636e7b !important;
+}
+.card-mi-cuenta a:hover {
+    color: brown;
+    text-decoration: underline  brown  !important;
+  }
+
+  .card-mi-cuenta p:hover {
+  color: brown;
+}
+
+.card-mi-cuenta p{
+    margin: 0;
+}
+
+

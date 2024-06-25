@@ -1,0 +1,16 @@
+a {
+    text-decoration: none !important;
+    color: #636e7b !important;
+  }
+  .card-links a:hover {
+      color: brown;
+      text-decoration: underline  brown  !important;
+    }
+  
+    .card-links  p:hover {
+    color: brown;
+  }
+  
+  .card-links  p{
+      margin: 0;
+  }
